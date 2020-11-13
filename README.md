@@ -1,2 +1,5 @@
-# cplusplus-projects
-A repository that is utilized for my C++ projects
+### Hi 👋, my name is Kye, and welcome to #cplusplus-projects
+
+This repository will be utilized for C++ projects
+
+****
